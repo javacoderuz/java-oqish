@@ -1,0 +1,3 @@
+ERROR: baza ulanmadi
+INFO: server ishga tushdi
+ERROR: port band
